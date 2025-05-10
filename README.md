@@ -195,7 +195,7 @@ Adopt these workflows to maintain peak performance over time.
 - **Advanced Profiling**: Include GPU tracing and network I/O metrics.  
 - **Plugin Ecosystem**: Community-driven modules for new model types.
 
-Contribute ideas or code via GitHub: [Generative Engine Optimization Issues](https://github.com/<your-username>/Generative-Engine-Optimization/issues).
+Contribute ideas or code via GitHub: [Generative Engine Optimization Issues](https://www.nidacademy.org/how-to-set-up-and-verify-your-website-with-google-search-console/).
 
 ---
 
